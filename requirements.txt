@@ -1,0 +1,6 @@
+requests
+rich
+pylatexenc
+PyYAML
+
+lxml
